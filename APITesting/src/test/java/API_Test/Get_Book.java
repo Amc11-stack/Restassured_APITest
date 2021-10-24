@@ -38,5 +38,12 @@ public class Get_Book {
 		System.out.println(rs.getBody().asPrettyString());
 		
 	}
+	
+	@Test
+	public void additionalstatement() {
+		
+        System.out.println("test cases are passed");
+		
+	}
 
 }
